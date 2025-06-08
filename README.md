@@ -5,7 +5,7 @@ I am a Coder/ Designer who finds creativity in Problem Solving.
 
 ## 🚀 About Me
 
-- 💻 Coding is my superpower — I enjoy building creative and impactful projects.
+- 💻 loves not to CODE— I enjoy building creative and impactful projects.
 - 🛠️ Currently working with: **MERN Stack (MongoDB, Express.js, React, Node.js)**
 - 🌱 Always learning new things — especially in the fields of Graphics Design.
 - 🤝 Looking to collaborate on exciting open-source projects but not right now.
