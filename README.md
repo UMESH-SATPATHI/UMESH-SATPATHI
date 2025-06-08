@@ -1,15 +1,23 @@
 # Hi there, I'm Umesh Satpathi 👋
 
 Welcome to my GitHub profile!  
-I'm a passionate developer, lifelong learner, and open-source enthusiast who loves to solve problems with code.
+I am a Coder/ Designer who finds creativity in Problem Solving.
 
 ## 🚀 About Me
 
 - 💻 Coding is my superpower — I enjoy building creative and impactful projects.
 - 🛠️ Currently working with: **MERN Stack (MongoDB, Express.js, React, Node.js)**
-- 🌱 Always learning new things — especially in the fields of web development and cloud.
-- 📝 I often write about tech and share what I learn.
-- 🤝 Looking to collaborate on exciting open-source projects.
+- 🌱 Always learning new things — especially in the fields of Graphics Design.
+- 🤝 Looking to collaborate on exciting open-source projects but not right now.
+
+## My SKILLS
+- JAVA
+- PYTHON
+- GRAPHICS DESIGN
+- UI/UX DESIGN
+
+## Qualification
+- B.Tech 3rd year [Computetr Science and Engineering]
 
 ## 🧰 Tech Stack
 
@@ -28,7 +36,7 @@ I'm a passionate developer, lifelong learner, and open-source enthusiast who lov
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/umesh-satpathi/)
-- [Instagram]()
+- [Instagram](https://www.instagram.com/_satpathiumesh_/)
 
 ---
 
